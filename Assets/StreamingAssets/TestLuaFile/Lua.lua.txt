@@ -1,0 +1,3 @@
+print('there a lua File')
+z=10
+s = { 90,"doMath"}
